@@ -1,0 +1,1346 @@
+﻿  ArraySequence_tests.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(111,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArraySequence<T>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,30): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,30): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,30): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,30): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(9,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(9,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(9,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(9,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(10,37): error C2440: инициализация: невозможно преобразовать "Sequence<T> *" в "ArraySequence<int> *"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(10,37): message : Для приведения базового класса к производному требуется dynamic_cast или static_cast
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(23,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(23,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(23,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(23,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(35,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(35,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(35,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(35,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(48,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(48,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(48,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(48,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(49,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(49,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(49,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(49,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(61,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(61,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(61,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(61,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(69,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(69,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(69,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(69,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(70,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(70,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(70,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(70,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(71,20): error C2243: приведение типов: преобразование "ArraySequence<int> *" в "const Sequence<T> &" существует, но недоступно
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(83,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(83,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(83,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(83,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(84,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(8,5): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(84,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(84,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence_tests.cpp(84,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+  DynamicArray_tests.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\DynamicArray_tests.cpp(10,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\DynamicArray_tests.cpp(21,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\DynamicArray_tests.cpp(31,10): error C2039: "Resize": не является членом "DynamicArray<int>".
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\DynamicArray_tests.cpp(6,5): message : см. объявление "DynamicArray<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\DynamicArray_tests.cpp(32,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\DynamicArray_tests.cpp(89,10): error C2039: "Resize": не является членом "DynamicArray<int>".
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\DynamicArray_tests.cpp(6,5): message : см. объявление "DynamicArray<int>"
+  ImmutableArraySequence_tests.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence_tests.cpp(10,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence_tests.cpp(43,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence_tests.cpp(64,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence_tests.cpp(79,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence_tests.cpp(94,9): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence.h(138,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence.h(136,32): message : во время компиляции функции-члена класс шаблон "ImmutableArraySequence<int> *ImmutableArraySequence<int>::Concat(const ImmutableSequence<T> &) const"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence_tests.cpp(76,44): message : см. первую ссылку на "ImmutableArraySequence<int>::Concat" в "testImmutableArraySequenceConcat"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence_tests.cpp(6,33): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ImmutableArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence.h(139,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence.h(141,23): error C2039: "Resize": не является членом "DynamicArray<T>".
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ImmutableArraySequence.h(13,5): message : см. объявление "DynamicArray<T>"
+          with
+          [
+              T=int
+          ]
+  LinkedList_tests.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(8,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(37,9): error C2676: бинарный "[": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(49,9): error C2676: бинарный "[": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(62,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(63,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(72,5): error C2676: бинарный "[": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,40): error C2664: "LinkedList<int> *LinkedList<int>::Concat(const LinkedList<int> &) const": невозможно преобразовать аргумент 1 из "LinkedList<int> *" в "const LinkedList<int> &"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,48): message : Причина: невозможно преобразовать "LinkedList<int> *" в "const LinkedList<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,48): message : "LinkedList<int>::LinkedList": ни одна перегруженная функция не может преобразовать все типы аргументов
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList.h(29,5): message : может быть "LinkedList<int>::LinkedList(const LinkedList<int> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,48): message : "LinkedList<int>::LinkedList(const LinkedList<int> &)": невозможно преобразовать аргумент 1 из "LinkedList<int> *" в "const LinkedList<int> &"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,48): message : Причина: невозможно преобразовать "LinkedList<int> *" в "const LinkedList<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,48): message : Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,48): message : при попытке сопоставить список аргументов "(LinkedList<int> *)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList.h(146,20): message : см. объявление "LinkedList<int>::Concat"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(98,40): message : при попытке сопоставить список аргументов "(LinkedList<int> *)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(101,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(115,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(131,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(136,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): error C2676: бинарный "==": "LinkedList<int>" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3567,17): message : может быть "bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3561,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3513,30): message : или       "bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': не удалось вывести аргумент шаблон для 'const std::unique_ptr<_Ty,_Dx> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1932,17): message : или       "bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1921,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(1879,17): message : или       "bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': не удалось вывести аргумент шаблон для 'const std::shared_ptr<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5034,17): message : или       "bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &)': не удалось вывести аргумент шаблон для 'const _Elem *const ' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5015,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const )': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xstring(5009,30): message : или       "bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': не удалось вывести аргумент шаблон для 'const std::basic_string<_Elem,_Traits,_Alloc> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xmemory(1034,30): message : или       "bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': не удалось вывести аргумент шаблон для 'const std::allocator<_Ty> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(489,17): message : или       "bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': не удалось вывести аргумент шаблон для 'const std::istreambuf_iterator<_Elem,_Traits> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iterator(307,17): message : или       "bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': не удалось вывести аргумент шаблон для 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(4264,5): message : или       "bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::move_iterator<_Iter> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(1656,5): message : или       "bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': не удалось вывести аргумент шаблон для 'const std::reverse_iterator<_BidIt> &' из 'LinkedList<int>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(482,27): message : или       "bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\LinkedList_tests.cpp(142,5): message : 'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': не удалось вывести аргумент шаблон для 'const std::pair<_Ty1,_Ty2> &' из 'LinkedList<int>'
+  ListSequence_tests.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,29): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,29): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,29): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,29): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(7,5): error C2039: "getSize": не является членом "ListSequence<int>".
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(17,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(17,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(17,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(17,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(25,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(25,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(25,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(25,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(26,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(26,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(26,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(26,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(39,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(39,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(39,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(39,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(40,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(40,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(40,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(40,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(54,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(54,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(54,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(54,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(66,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(66,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(66,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(66,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(75,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(75,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(75,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(75,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(76,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(76,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(76,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(76,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(88,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(88,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(88,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(88,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(89,23): error C2259: "ListSequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(6,5): message : см. объявление "ListSequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(89,23): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(89,23): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ListSequence_tests.cpp(89,23): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+  main.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(111,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArraySequence<T>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(15,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(15,5): error C3861: cout: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(18,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(18,5): error C3861: cout: идентификатор не найден
+  Menu.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(111,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArraySequence<T>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(15,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(15,5): error C3861: cout: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(18,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(18,5): error C3861: cout: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,26): error C2259: "ArraySequence<float>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,5): message : см. объявление "ArraySequence<float>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,26): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,26): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,26): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,32): error C2672: "createArrayManually": не найдена соответствующая перегруженная функция
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : может быть "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,32): message : Сбой при специализации функции-шаблона "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,32): message : Со следующими аргументами шаблона:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,32): message : "T=float"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,30): error C2259: "ArraySequence<float>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,5): message : см. объявление "ArraySequence<float>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,30): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,30): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(97,30): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=float
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,30): error C2672: "createArrayManually": не найдена соответствующая перегруженная функция
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : может быть "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,30): message : Сбой при специализации функции-шаблона "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,30): message : Со следующими аргументами шаблона:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,30): message : "T=int"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,28): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,28): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,28): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(102,28): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,5): error C2065: ds: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,26): error C2065: newArray: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,37): error C2065: ds: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,58): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается "выражение"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,58): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,58): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,58): message : пропущено восстановление ошибки: ")"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,24): error C2760: синтаксическая ошибка: непредвиденный элемент ">". Ожидается "объявление"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(112,58): message : пропущено восстановление ошибки: ")"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(116,9): error C2065: newArray: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(118,12): error C2065: newArray: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : Сообщение диагностики возникло в созданной компилятором функции "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,30): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,30): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,30): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(147,30): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,31): error C2672: "createArrayManually": не найдена соответствующая перегруженная функция
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.h(23,18): message : может быть "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,31): message : Сбой при специализации функции-шаблона "ArraySequence<T> createArrayManually(T (__cdecl *)(void))"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,31): message : Со следующими аргументами шаблона:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(152,31): message : "T=int"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(153,16): error C2243: приведение типов: преобразование "ArraySequence<int> *" в "const Sequence<T> &" существует, но недоступно
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,30): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,30): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,30): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(160,30): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(176,32): error C2440: инициализация: невозможно преобразовать "Sequence<T> *" в "ArraySequence<int> *"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(176,32): message : Для приведения базового класса к производному требуется dynamic_cast или static_cast
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,30): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,30): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,30): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(184,30): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,30): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,30): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,30): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(199,30): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(208,20): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(208,20): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(208,20): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(208,20): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,24): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,24): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,24): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,24): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,35): error C2259: "ArraySequence<int>": невозможно создать экземпляр абстрактного класса
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(6,24): message : см. объявление "ArraySequence<int>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,35): message : из-за следующих членов:
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,35): message : const T &Sequence<T>::Get(size_t): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(11,19): message : см. объявление "Sequence<T>::Get"
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Menu.cpp(211,35): message : Sequence<T> &Sequence<T>::InsertAt(const T &,int): абстрактный
+          with
+          [
+              T=int
+          ]
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\Sequence.h(16,23): message : см. объявление "Sequence<T>::InsertAt"
+          with
+          [
+              T=int
+          ]
+  PrintFunctions.cpp
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(111,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArraySequence<T>"
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(48,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(53,3): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C3861: array: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\ArraySequence.h(59,10): error C2065: array: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(15,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(15,5): error C3861: cout: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(18,5): error C2065: cout: необъявленный идентификатор
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.h(18,5): error C3861: cout: идентификатор не найден
+C:\Users\Артем\Desktop\лабораторная работа номер 2 по информатике\лабораторная работа номер 2 по информатике\PrintFunctions.cpp(8,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
